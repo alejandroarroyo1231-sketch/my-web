@@ -1,5 +1,5 @@
 # my-web
-my web
+Alex web
 
 
 <!DOCTYPE html>
@@ -14,7 +14,7 @@ my web
       background: #f8f9fa;
       margin: 0;
       padding: 0;
-      color: #222;
+      color: #223;
     }
 
     header {
