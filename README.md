@@ -14,7 +14,7 @@ Alex web
       background: #f8f9fa;
       margin: 0;
       padding: 0;
-      color: #255;
+      color: #51;
     }
 
     header {
