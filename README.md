@@ -11,7 +11,7 @@ Alex web
   <style>
     body {
       font-family: "Segoe UI", Tahoma, sans-serif;
-      background: #f8f9fa;
+      background: #FFD700;
       margin: 0;
       padding: 0;
       color: #51;
