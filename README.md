@@ -119,7 +119,7 @@ my web
   </main>
 
   <footer>
-    <p>&copy; 2025  | Datos obtenidos de APIs públicas.</p>
+    <p>&copy; | Datos obtenidos de APIs públicas.</p>
   </footer>
 
   <script>
