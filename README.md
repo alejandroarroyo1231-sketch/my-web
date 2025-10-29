@@ -18,7 +18,7 @@ Alex web
     }
 
     header {
-      background: linear-gradient(135deg, #0077ff, #00b894);
+      background: linear-gradient(135deg, #63738d, #00b894);
       color: white;
       padding: 2rem 1rem;
       text-align: center;
