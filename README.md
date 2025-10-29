@@ -18,7 +18,7 @@ ELPROFANADOR 347
     }
 
     header {
-      background: linear-gradient(135deg, #FF4500);
+      background: linear-gradient(135deg, #000066);
       color: white;
       padding: 2rem 1rem;
       text-align: center;
